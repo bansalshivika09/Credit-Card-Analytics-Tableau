@@ -1,0 +1,11 @@
+Campaign_ID,Campaign_Name,Campaign_Type,Target_Segment,Start_Date,End_Date,Campaign_Budget
+1,Cashback Plus,Cashback,High Value,2025-01-15,2025-02-14,150000
+2,Travel Rewards,Rewards,Premium,2025-02-01,2025-03-03,200000
+3,Dining Rewards,Rewards,Standard,2025-03-01,2025-03-31,120000
+4,Premium Upgrade,Upsell,Premium,2025-04-01,2025-05-01,250000
+5,Balance Transfer,Balance Transfer,High Utilization,2025-05-01,2025-05-31,180000
+6,Festival Cashback,Cashback,Standard,2025-06-01,2025-07-01,175000
+7,Fuel Savings,Rewards,High Utilization,2025-07-01,2025-07-31,100000
+8,Shopping Rewards,Rewards,High Value,2025-08-01,2025-08-31,160000
+9,Credit Limit Increase,Credit Limit,High Utilization,2025-09-01,2025-10-01,220000
+10,Digital Engagement,Engagement,Standard,2025-10-01,2025-10-31,90000
